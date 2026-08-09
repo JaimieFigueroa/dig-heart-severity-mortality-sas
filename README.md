@@ -1,2 +1,2 @@
 # dig-heart-severity-mortality-sas
-Survival analysis of the association between NYHA functional class and all-cause mortality using SAS
+ Academic analysis of the DIG teaching dataset: Association between Heart Severity and Mortality in the Digoxin Trials
