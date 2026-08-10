@@ -131,5 +131,12 @@ Jaimie Figueroa
 ## Repository Contents
 
 ```text
-sas/
-└── analysis.sas
+dig-heart-severity-mortality-sas/
+│
+├── README.md
+│
+├── sas/
+│   └── analysis.sas
+│
+└── figures/
+    └── kaplan-meier-nyha.png
