@@ -113,6 +113,21 @@ Further research using populations with more balanced representation of women an
 - PROC TTEST
 - PROC FREQ
 
+## Skills Demonstrated
+
+- SAS programming and data management
+- Clinical trial data analysis
+- Epidemiologic study design
+- Descriptive statistics
+- Survival analysis
+- Kaplan-Meier estimation
+- Cox proportional hazards regression
+- Confounding adjustment
+- Effect modification and interaction analysis
+- Statistical interpretation
+- Data visualization
+- Scientific communication
+
 ## Project Objectives
 
 This project applied epidemiologic and biostatistical methods to:
