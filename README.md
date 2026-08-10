@@ -76,8 +76,12 @@ This project applied epidemiologic and biostatistical methods to:
 - Interpret statistical findings in the context of public health research
 - Communicate findings through written and oral presentation
 
+## Author
+
+Jaimie Figueroa
+
 ## Repository Contents
 
-Jaimie Figueroa 
+```text
 sas/
 └── analysis.sas
