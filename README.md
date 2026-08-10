@@ -84,6 +84,10 @@ The interaction between NYHA functional class and sex was not statistically sign
 
 Kaplan-Meier survival curves demonstrated progressively lower survival probabilities with increasing NYHA functional class. Participants with NYHA Class I had the highest observed survival probability, while participants with Classes III and IV had lower survival probabilities over time.
 
+![Kaplan-Meier Survival Curves by NYHA Functional Class](figures/kaplan-meier-nyha.png)
+
+*Figure 1. Kaplan-Meier survival curves by NYHA functional class.*
+
 ## Discussion
 
 The analysis demonstrated a strong association between greater baseline heart failure severity and mortality. Participants with higher NYHA functional classes had progressively higher hazards of mortality compared with participants with Class I disease.
