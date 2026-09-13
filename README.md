@@ -216,4 +216,9 @@ dig-heart-severity-mortality-sas/
 │   └── analysis.sas
 │
 └── figures/
+    ├── table1_baseline.png
+    ├── table2_cox_model.png
+    ├── table3_sex_specific.png
+    ├── table4_interaction.png
     └── kaplan_meier.png
+
