@@ -87,7 +87,7 @@ Analyses were conducted using SAS.
 
 The study included 6,800 participants, including 1,519 women (22%) and 5,281 men (78%). Women and men differed significantly in ejection fraction, race, NYHA functional class, and chronic heart failure etiology. Other evaluated characteristics, including age, BMI, diabetes, hypertension, and previous myocardial infarction, did not differ significantly by sex.
 
-![Kaplan-Meier Survival Curves](sas/Table1.png)
+![Table1 Baseline](sas/Table1.png)
 
 ### Adjusted Cox Proportional Hazards Model
 
@@ -106,7 +106,7 @@ NYHA Class III: adjusted HR = 3.51 (95% CI: 2.66–4.64, p < 0.0001)
 NYHA Class IV: adjusted HR = 7.17 (95% CI: 4.81–10.68, p < 0.0001)
 These findings demonstrate a strong gradient in heart-failure-specific mortality, with progressively higher hazards observed among participants with more severe NYHA functional class.
 
-![Table 2](figures/sas/Table2.png)
+![Table 2](sas/Table2.png)
 
 Sex was not statistically significant in the adjusted model (HR = 0.85, 95% CI: 0.72–1.01, p = 0.0589).
 
