@@ -133,7 +133,7 @@ The overall NYHA functional class × sex interaction was also evaluated using a 
 
 Interpretation: The analysis did not provide statistically significant evidence that sex modified the association between NYHA functional class and heart-failure-specific mortality.
 
-![Kaplan-Meier Survival Curves](sas/Table3.png)
+![Table3](sas/Table3.png)
 
 ![Kaplan-Meier Survival Curves](sas/Table4.png)
 
