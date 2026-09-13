@@ -135,10 +135,6 @@ Kaplan-Meier survival estimates were used to visualize time-to-event differences
 
 Survival curves demonstrated progressively lower survival probabilities with increasing NYHA functional class. Participants with NYHA Class I had the highest observed survival probability, while participants with Classes III and IV demonstrated lower survival probabilities over follow-up.
 
-## Kaplan-Meier Survival Analysis
-
-Kaplan-Meier survival estimates were used to visualize differences in time to heart-failure-specific mortality across NYHA functional classes.
-
 ![Kaplan-Meier Survival Curves](sas/kaplan_meier.png)
 
 *Figure 1. Kaplan-Meier survival curves for heart-failure-specific mortality by baseline NYHA functional class.*
