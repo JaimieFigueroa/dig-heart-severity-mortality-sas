@@ -124,6 +124,8 @@ Class II	2.13 (0.93–4.90)	1.53 (1.14–2.06)
 Class III	4.24 (1.86–9.71)	3.45 (2.56–4.63)
 Class IV	8.55 (3.09–23.26)	7.04 (4.55–10.99)
 
+![Table3](sas/Table3.png)
+
 Although the point estimates differed between women and men, the individual interaction tests were not statistically significant:
 
 NYHA II × sex: p = 0.466
@@ -131,9 +133,10 @@ NYHA III × sex: p = 0.644
 NYHA IV × sex: p = 0.740
 The overall NYHA functional class × sex interaction was also evaluated using a joint test of the three interaction parameters.
 
+![Table3](sas/Table4.png)
+
 Interpretation: The analysis did not provide statistically significant evidence that sex modified the association between NYHA functional class and heart-failure-specific mortality.
 
-![Table3](sas/Table3.png)
 
 
 ### Kaplan-Meier Survival Analysis
