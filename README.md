@@ -87,6 +87,8 @@ Analyses were conducted using SAS.
 
 The study included 6,800 participants, including 1,519 women (22%) and 5,281 men (78%). Women and men differed significantly in ejection fraction, race, NYHA functional class, and chronic heart failure etiology. Other evaluated characteristics, including age, BMI, diabetes, hypertension, and previous myocardial infarction, did not differ significantly by sex.
 
+![Table 1](sas/Table 1.docx)
+
 ### Adjusted Cox Proportional Hazards Model
 
 Baseline Characteristics
@@ -112,7 +114,7 @@ Race, hypertension, diabetes, age, BMI, and chronic heart failure duration were 
 
 ### Table 1. Baseline Characteristics
 
-![Table 1](figures/table1_baseline_characteristics.png)
+![Table 1](sas/Table 1.docx)
 
 ### Table 2. Adjusted Cox Proportional Hazards Model
 
