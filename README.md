@@ -106,7 +106,7 @@ NYHA Class III: adjusted HR = 3.51 (95% CI: 2.66–4.64, p < 0.0001)
 NYHA Class IV: adjusted HR = 7.17 (95% CI: 4.81–10.68, p < 0.0001)
 These findings demonstrate a strong gradient in heart-failure-specific mortality, with progressively higher hazards observed among participants with more severe NYHA functional class.
 
-![Table2](sas/Table2.png)
+![Table2](sas/table2.png)
 
 Sex was not statistically significant in the adjusted model (HR = 0.85, 95% CI: 0.72–1.01, p = 0.0589).
 
@@ -134,6 +134,10 @@ The overall NYHA functional class × sex interaction was also evaluated using a 
 Interpretation: The analysis did not provide statistically significant evidence that sex modified the association between NYHA functional class and heart-failure-specific mortality.
 
 ![Table3](sas/Table3.png)
+
+
+
+
 
 ![Kaplan-Meier Survival Curves](sas/Table4.png)
 
