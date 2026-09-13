@@ -24,20 +24,22 @@ The analysis used the Digitalis Investigation Group (DIG) teaching dataset made 
 
 The primary exposure was NYHA functional class:
 
-Class I: No limitation on physical activity
-Class II: Slight limitation of physical activity
-Class III: Marked limitation of physical activity
-Class IV: Inability to carry on physical activity without discomfort
+- Class I: No limitation on physical activity
+- Class II: Slight limitation of physical activity
+- Class III: Marked limitation of physical activity
+- Class IV: Inability to carry on physical activity without discomfort
+  
 Primary Outcome
 The primary outcome was heart-failure-specific mortality, defined as death due to worsening heart failure as the recorded primary cause of death.
 
 Cause of death was categorized as:
 
-Worsening heart failure
-Other cardiac
-Other vascular
-Unknown
-Other non-cardiac
+- Worsening heart failure
+- Other cardiac
+- Other vascular
+- Unknown
+- Other non-cardiac
+  
 For the primary analysis, deaths attributed to worsening heart failure were classified as events. Participants who did not experience heart-failure-specific death were censored at their observed follow-up time, including participants who died from other causes.
 
 Potential Confounders
