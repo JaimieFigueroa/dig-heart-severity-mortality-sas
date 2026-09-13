@@ -136,12 +136,6 @@ Interpretation: The analysis did not provide statistically significant evidence 
 ![Table3](sas/Table3.png)
 
 
-
-
-
-![Kaplan-Meier Survival Curves](sas/Table4.png)
-
-
 ### Kaplan-Meier Survival Analysis
 
 Kaplan-Meier survival estimates were used to visualize time-to-event differences across NYHA functional classes.
