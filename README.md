@@ -108,6 +108,22 @@ Sex was not statistically significant in the adjusted model (HR = 0.85, 95% CI: 
 
 Race, hypertension, diabetes, age, BMI, and chronic heart failure duration were also not statistically significant predictors of heart-failure-specific mortality after adjustment.
 
+## Results
+
+### Table 1. Baseline Characteristics
+[Table 1]
+
+### Table 2. Adjusted Cox Proportional Hazards Model
+[Table 2]
+
+### Table 3. Sex-Specific Associations
+[Table 3]
+
+### Table 4. Interaction Test
+[Table 4]
+
+### Figure 1. Kaplan-Meier Survival Curves
+[Figure 1]
 
 ### Effect Modification by Sex
 
