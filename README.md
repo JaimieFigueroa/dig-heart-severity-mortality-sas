@@ -45,13 +45,13 @@ For the primary analysis, deaths attributed to worsening heart failure were clas
 Potential Confounders
 The adjusted analysis included:
 
-Age
-Sex
-Race
-Diabetes
-Hypertension
-Body mass index (BMI)
-Chronic heart failure duration
+- Age
+- Sex
+- Race
+- Diabetes
+- Hypertension
+- Body mass index (BMI)
+- Chronic heart failure duration
 
 
 ## Statistical Methods
@@ -66,14 +66,14 @@ Effect modification analysis using an interaction between NYHA functional class 
 Adjusted Cox Proportional Hazards Model
 The primary Cox proportional hazards model estimated the association between baseline NYHA functional class and heart-failure-specific mortality, adjusting for:
 
-Sex
-Age
-Race
-Hypertension
-Diabetes
-BMI
-Chronic heart failure duration
-NYHA Class I was specified as the reference category.
+- Sex
+- Age
+- Race
+- Hypertension
+- Diabetes
+- BMI
+- Chronic heart failure duration
+- NYHA Class I was specified as the reference category.
 
 Effect Modification by Sex
 A second adjusted Cox proportional hazards model included an interaction term between NYHA functional class and sex to assess whether the association between heart failure severity and heart-failure-specific mortality differed by sex.
