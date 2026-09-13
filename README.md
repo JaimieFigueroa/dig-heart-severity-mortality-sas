@@ -42,18 +42,6 @@ Cause of death was categorized as:
   
 For the primary analysis, deaths attributed to worsening heart failure were classified as events. Participants who did not experience heart-failure-specific death were censored at their observed follow-up time, including participants who died from other causes.
 
-Potential Confounders
-The adjusted analysis included:
-
-- Age
-- Sex
-- Race
-- Diabetes
-- Hypertension
-- Body mass index (BMI)
-- Chronic heart failure duration
-
-
 ## Statistical Methods
 
 Descriptive statistics were used to summarize participant characteristics.
