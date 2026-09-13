@@ -106,6 +106,8 @@ NYHA Class III: adjusted HR = 3.51 (95% CI: 2.66–4.64, p < 0.0001)
 NYHA Class IV: adjusted HR = 7.17 (95% CI: 4.81–10.68, p < 0.0001)
 These findings demonstrate a strong gradient in heart-failure-specific mortality, with progressively higher hazards observed among participants with more severe NYHA functional class.
 
+![Table 2](figures/sas/Table2.png)
+
 Sex was not statistically significant in the adjusted model (HR = 0.85, 95% CI: 0.72–1.01, p = 0.0589).
 
 Race, hypertension, diabetes, age, BMI, and chronic heart failure duration were also not statistically significant predictors of heart-failure-specific mortality after adjustment.
@@ -118,7 +120,7 @@ Race, hypertension, diabetes, age, BMI, and chronic heart failure duration were 
 
 ### Table 2. Adjusted Cox Proportional Hazards Model
 
-![Table 2](figures/table2_cox_model.png)
+
 
 ### Table 3. Sex-Specific Hazard Ratios
 
