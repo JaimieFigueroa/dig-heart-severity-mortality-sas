@@ -112,28 +112,6 @@ Sex was not statistically significant in the adjusted model (HR = 0.85, 95% CI: 
 
 Race, hypertension, diabetes, age, BMI, and chronic heart failure duration were also not statistically significant predictors of heart-failure-specific mortality after adjustment.
 
-## Results
-
-### Table 1. Baseline Characteristics
-
-![Table 1](sas/Table 1.docx)
-
-### Table 2. Adjusted Cox Proportional Hazards Model
-
-
-
-### Table 3. Sex-Specific Hazard Ratios
-
-![Table 3](figures/table3_sex_specific_hr.png)
-
-### Table 4. Test for Interaction Between NYHA Functional Class and Sex
-
-![Table 4](figures/table4_interaction.png)
-
-### Figure 1. Kaplan-Meier Survival Curves
-
-![Kaplan-Meier Survival Curves](figures/figure1_kaplan_meier.png)
-
 ### Effect Modification by Sex
 
 The association between NYHA functional class and heart-failure-specific mortality was evaluated separately by sex.
@@ -154,6 +132,11 @@ NYHA IV × sex: p = 0.740
 The overall NYHA functional class × sex interaction was also evaluated using a joint test of the three interaction parameters.
 
 Interpretation: The analysis did not provide statistically significant evidence that sex modified the association between NYHA functional class and heart-failure-specific mortality.
+
+![Kaplan-Meier Survival Curves](sas/Table3.png)
+
+![Kaplan-Meier Survival Curves](sas/Table4.png)
+
 
 ### Kaplan-Meier Survival Analysis
 
