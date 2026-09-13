@@ -217,4 +217,4 @@ dig-heart-severity-mortality-sas/
 │   └── analysis.sas
 │
 └── figures/
-    └── kaplan-meier-nyha.png
+    └── kaplan_meier.png
