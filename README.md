@@ -111,7 +111,178 @@ Race, hypertension, diabetes, age, BMI, and chronic heart failure duration were 
 ## Results
 
 ### Table 1. Baseline Characteristics
-[Table 1]
+Table 1. Baseline Characteristics of DIG Trial Participants by Sex
+Characteristic
+Female (n = 1,519)
+Male (n = 5,281)
+p-value
+Continuous Variables
+
+
+
+
+
+
+Age, years
+63.84 ± 10.91
+63.38 ± 10.92
+0.14
+Ejection Fraction (%)
+30.14 ± 8.91
+28.08 ± 8.78
+<0.001
+BMI (kg/m²)
+27.19 ± 5.18
+27.09 ± 5.20
+0.53
+Serum Creatinine (mg/dL)
+1.28 ± 0.36
+1.29 ± 0.37
+0.69
+Duration of CHF (months)
+30.86 ± 37.97
+29.96 ± 36.56
+0.40
+Heart Failure Symptom Score (NSYM)
+3.69 ± 0.75
+3.65 ± 0.81
+0.06
+Categorical Variables
+
+
+
+
+
+
+Race
+
+
+
+
+<0.001
+White
+1,232 (81.1%)
+4,577 (86.7%)
+
+
+Non-White
+287 (18.9%)
+704 (13.3%)
+
+
+NYHA Functional Class
+
+
+
+
+<0.001
+Class I
+131 (8.6%)
+776 (14.7%)
+
+
+Class II
+770 (50.7%)
+2,894 (54.9%)
+
+
+Class III
+579 (38.1%)
+1,502 (28.5%)
+
+
+Class IV
+38 (2.5%)
+104 (2.0%)
+
+
+Diabetes
+
+
+
+
+0.84
+No
+1,084 (71.4%)
+3,783 (71.6%)
+
+
+Yes
+435 (28.6%)
+1,498 (28.4%)
+
+
+Hypertension
+
+
+
+
+0.60
+No
+821 (54.1%)
+2,894 (54.8%)
+
+
+Yes
+698 (46.0%)
+2,386 (45.2%)
+
+
+Previous Myocardial Infarction
+
+
+
+
+0.44
+No
+544 (35.8%)
+1,836 (34.8%)
+
+
+Yes
+974 (64.2%)
+3,445 (65.2%)
+
+
+CHF Etiology
+
+
+
+
+<0.001
+Ischemic
+938 (62.0%)
+3,865 (73.4%)
+
+
+Hypertensive
+197 (13.0%)
+386 (7.3%)
+
+
+Valvular
+29 (1.9%)
+70 (1.3%)
+
+
+Idiopathic
+304 (20.1%)
+703 (13.3%)
+
+
+Alcohol-related
+18 (1.2%)
+204 (3.9%)
+
+
+Other
+28 (1.9%)
+40 (0.8%)
+
+
+
+
+
 
 ### Table 2. Adjusted Cox Proportional Hazards Model
 [Table 2]
