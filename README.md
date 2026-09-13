@@ -87,7 +87,7 @@ Analyses were conducted using SAS.
 
 The study included 6,800 participants, including 1,519 women (22%) and 5,281 men (78%). Women and men differed significantly in ejection fraction, race, NYHA functional class, and chronic heart failure etiology. Other evaluated characteristics, including age, BMI, diabetes, hypertension, and previous myocardial infarction, did not differ significantly by sex.
 
-![Table 1](sas/Table 1.docx)
+![Kaplan-Meier Survival Curves](sas/Table1.png)
 
 ### Adjusted Cox Proportional Hazards Model
 
